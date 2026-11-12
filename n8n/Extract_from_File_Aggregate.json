@@ -1,0 +1,1026 @@
+[
+  {
+    "order_id": "FMY530103101",
+    "customer_id": "789103",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61103501",
+    "customer_id": "789103",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530102502",
+    "customer_id": "789102",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531102503",
+    "customer_id": "789102",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530903402",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531903303",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61903603",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61903502",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530702401",
+    "customer_id": "789702",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531702402",
+    "customer_id": "789702",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61702402",
+    "customer_id": "789702",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61202602",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61221502",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530621202",
+    "customer_id": "789621",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61621602",
+    "customer_id": "789621",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61402401",
+    "customer_id": "789402",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530902603",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531902403",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61902203",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530622603",
+    "customer_id": "789622",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531622501",
+    "customer_id": "789622",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531703601",
+    "customer_id": "789703",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531721502",
+    "customer_id": "789721",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61721502",
+    "customer_id": "789721",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530122303",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61122501",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531503503",
+    "customer_id": "789503",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530603503",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61603301",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531403603",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61403301",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531421502",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530421303",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61521103",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530203102",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531303302",
+    "customer_id": "789303",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530403303",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61202103",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531603602",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61603402",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530221401",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530903502",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61702601",
+    "customer_id": "789702",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61521203",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530522602",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61522201",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530121602",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61121501",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531421101",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530421202",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61421501",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61122303",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61122402",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61122602",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "0",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530422501",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61422301",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61422103",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61422101",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530102602",
+    "customer_id": "789102",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531122502",
+    "customer_id": "789122",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530203201",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531203302",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61721503",
+    "customer_id": "789721",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530321203",
+    "customer_id": "789321",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61321603",
+    "customer_id": "789321",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61221401",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530622401",
+    "customer_id": "789622",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530202501",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530902502",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531902602",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531703101",
+    "customer_id": "789703",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61402602",
+    "customer_id": "789402",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61403501",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61403203",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531522203",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531522401",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61522601",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61522502",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531521301",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530521403",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530521301",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531521503",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FJUN61521301",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531121303",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY530121401",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "0",
+    "in_full": "1",
+    "otif": "0"
+  },
+  {
+    "order_id": "FMY531402202",
+    "customer_id": "789402",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530402202",
+    "customer_id": "789402",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61622102",
+    "customer_id": "789622",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61622302",
+    "customer_id": "789622",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531221203",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530221502",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531221503",
+    "customer_id": "789221",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530721502",
+    "customer_id": "789721",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530503602",
+    "customer_id": "789503",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61503602",
+    "customer_id": "789503",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530902202",
+    "customer_id": "789902",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531621403",
+    "customer_id": "789621",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530321301",
+    "customer_id": "789321",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531321603",
+    "customer_id": "789321",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61321403",
+    "customer_id": "789321",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531203301",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530203501",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61203502",
+    "customer_id": "789203",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531102303",
+    "customer_id": "789102",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61102203",
+    "customer_id": "789102",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530121601",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61121203",
+    "customer_id": "789121",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530522403",
+    "customer_id": "789522",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530422402",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531422103",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61422401",
+    "customer_id": "789422",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531521402",
+    "customer_id": "789521",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61421603",
+    "customer_id": "789421",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61702401",
+    "customer_id": "789702",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531103103",
+    "customer_id": "789103",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531903502",
+    "customer_id": "789903",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530403402",
+    "customer_id": "789403",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531202301",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531202303",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530202202",
+    "customer_id": "789202",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531303301",
+    "customer_id": "789303",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530303402",
+    "customer_id": "789303",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61303503",
+    "customer_id": "789303",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530703602",
+    "customer_id": "789703",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FJUN61703103",
+    "customer_id": "789703",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY530603102",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531603302",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  },
+  {
+    "order_id": "FMY531603603",
+    "customer_id": "789603",
+    "order_placement_date": "17-05-2025",
+    "on_time": "1",
+    "in_full": "1",
+    "otif": "1"
+  }
+]
