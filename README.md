@@ -50,11 +50,7 @@ Build or import the workflow that extracts the files and inserts them into Supab
 3. Quadratic
 Create a new file at quadratic.ai.
 Go to Connections → Add connection → Postgres and use the same Supabase credentials.
-Insert a Postgres cell (press / in a cell) and write SQL, for example:
-sql
-SELECT * FROM fact_orders_aggregate;
-
-Remove any LIMIT 100 clause to pull every record, otherwise only the first 100 rows are loaded.
+Insert a Postgres cell (press / in a cell) and write SQL.
 
 # Challenges and fixes
 Problem	Cause	Fix
