@@ -1,11 +1,11 @@
 # AI-Driven-Supply-Chain-Analytics
 An end-to-end supply chain analytics project for Super Mart, a fictional FMCG company. Raw order data is loaded into a Supabase (PostgreSQL) database with n8n workflow automation, then analysed in Quadratic, an AI-powered spreadsheet, using SQL and natural-language prompts to calculate delivery KPIs such as Line Fill Rate, Volume Fill Rate, On-Time (OT), In-Full (IF) and OTIF.
 
-Built by following the codebasics tutorial. Setup notes, fixes and my own analysis are documented below.
+# Problem statement
 
-Problem statement
+Super Mart's supply chain team needs to know how well it fulfils customer orders. Order data arrives as files and is hard to analyse by hand.
 
-Super Mart's supply chain team needs to know how well it fulfils customer orders. Order data arrives as files and is hard to analyse by hand. This project:
+This project:
 
 Automates getting the data into a database.
 Makes it queryable with SQL.
@@ -18,10 +18,14 @@ Quadratic	AI spreadsheet that connects to Postgres, runs SQL and builds KPIs/cha
 SQL / Python	Querying and calculations inside Quadratic
 Architecture
 Data files (CSV / Excel)
+
         │
+
         ▼
+  
    n8n workflow  ──►  Supabase (PostgreSQL)  ──►  Quadratic (SQL + AI prompts)
  (extract & load)      (session pooler)            KPIs, charts, insights
+
 Database schema
 Table	Description
 dim_customers	Customer details
@@ -81,9 +85,9 @@ n8n workflow Supabase tables Quadratic dashboard
 
 Repository structure
 ├── README.md
-├── images/                 # screenshots used in this README
+├── images/       
 ├── n8n/
-│   └── workflow.json       # exported n8n workflow (credentials removed)
+│   └── workflow.json       # exported n8n workflow
 └── sql/
     └── queries.sql         # SQL prompts and equivalent queries used in Quadratic
 
