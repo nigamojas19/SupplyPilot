@@ -57,12 +57,19 @@ Supabase direct connection could not be reached	The direct connection is IPv6-on
 
 # Key insights
 Total Order Lines	25,777
+
 Line Fill Rate	65.99%
+
 Volume Fill Rate	96.62%
+
 Total Orders	13,595
+
 On Time Delivery %	59.23%
+
 In Full Delivery %	52.61%
+
 On Time In Full %	28.75%
+
 # Screenshots
 <img width="1877" height="1042" alt="image" src="https://github.com/user-attachments/assets/1ce7f243-6319-496d-b013-cd15244aa9bc" />
 
@@ -86,4 +93,5 @@ Repository structure
 
 # Data and credits
 Tutorial and dataset: codebasics
+
 The dataset is provided by codebasics for learning only. It is not included in this repository.
