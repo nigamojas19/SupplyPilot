@@ -1,0 +1,65 @@
+# Gmail trigger
+
+{
+  "id": "1a1cee6d0455d894",
+  "threadId": "1a1cee6d0455d894",
+  "labelIds": [
+    "IMPORTANT",
+    "CATEGORY_PERSONAL",
+    "INBOX"
+  ],
+  "sizeEstimate": 38765,
+  "headers": {
+    "delivered-to": "Delivered-To: ojaskn19@gmail.com",
+    "received": "Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])\r\n        by mx.google.com with SMTPS id 38308e7fff4ca-3ae1be80588sor3668221fa.3.2026.11.12.00.36.35\r\n        for <ojaskn19@gmail.com>\r\n        (Google Transport Security);\r\n        Thu, 12 Nov 2026 00:36:35 -0800 (PST)",
+    "x-received": "X-Received: by 2002:a2e:a98b:0:b0:3ac:4f4c:8da2 with SMTP id\r\n 38308e7fff4ca-3ae1c0007c7mr3835391fa.17.1794472594959; Thu, 12 Nov 2026\r\n 00:36:34 -0800 (PST)",
+    "arc-seal": "ARC-Seal: i=1; a=rsa-sha256; t=1794472595; cv=none;\r\n        d=google.com; s=arc-20260327;\r\n        b=EFQNI/L46XFRe2UhOJ0aObFMrcZpvjgOi+NF3VgHe0rNJWj676NvdyYnyYHulW4dJJ\r\n         GC/6qPpngJe30bFegtot7oEBpeRw6AtY88oRjfUFnQdRpMcZP65ffAjIbS5lEdIgp2dw\r\n         61ZTyZq8zPodXwrGVDGyO4j73wpcYLf9igehWhD5Ry/GQyK+H3ySHSadyLNV2Uks+2ri\r\n         WCYzm2MjNW+Q0KnwgrTMB1TI4w87oCpPPK6eTqu8UQfMmqN8papdUje9rW6Bh9EUiMlq\r\n         RqcIUZ7sN7mHuPk1GoPuWDOv4sPRIoWRe7e0Ro7NFQ3dEveoU4T9OvjzB46+zwSeQqmh\r\n         bMaQ==",
+    "arc-message-signature": "ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;\r\n        h=to:subject:message-id:date:from:in-reply-to:references:mime-version\r\n         :dkim-signature;\r\n        bh=2s/kGpCL6sqwnh05J8SRwiJzc/rtf09XsuQZ+DFWHbQ=;\r\n        fh=x4XEpfNtuK8Fe41vtm2pOG0caQ/CJsN47mkDQu4DuGA=;\r\n        b=DYzdmQtDxFDMCwdUlzGrV45Yb1TQHd7jyMHWHnc2P7vSANaQs/aXPETzsZmU9A138T\r\n         qJCUmRNWv2Fhe/apNQSMqxdBrA/mCHJIps1qTtZLHz4wxKeZwWXx4+U7mWoZz7ZC68JG\r\n         Amp3yfAcKsg0hwsQV1gZAbprAdHegmiQ/5CRo60s1a0XAZieJAikCVbouR0x1yqO+m4w\r\n         v8exNkVY5EcVR2ouzu+W//2TLWDw73MeaHyZaYEj43OMpHLbR9gYPOuFWdETHKd2WVIC\r\n         OwG3qFCM0csZzd/5hz3p8sL0gh1rjKSCn8NM18IUCEJjwUBFcAkfI78fWXYmU0RoO0vc\r\n         kpZQ==;\r\n        dara=google.com",
+    "arc-authentication-results": "ARC-Authentication-Results: i=1; mx.google.com; arc=none",
+    "return-path": "Return-Path: <nigamojas19@gmail.com>",
+    "received-spf": "Received-SPF: pass (google.com: domain of nigamojas19@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;",
+    "authentication-results": "Authentication-Results: mx.google.com;\r\n       dkim=pass header.i=@gmail.com header.s=20260707 header.b=K4R5gGLK;\r\n       arc=pass (i=1);\r\n       spf=pass (google.com: domain of nigamojas19@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=nigamojas19@gmail.com;\r\n       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;\r\n       dara=pass header.i=@gmail.com",
+    "dkim-signature": "DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;\r\n        d=gmail.com; s=20260707; t=1794472595; x=1795077395; dara=google.com;\r\n        h=content-type:to:subject:message-id:date:from:in-reply-to:references\r\n         :mime-version:from:to:cc:subject:date:message-id:reply-to\r\n         :content-type;\r\n        bh=2s/kGpCL6sqwnh05J8SRwiJzc/rtf09XsuQZ+DFWHbQ=;\r\n        b=K4R5gGLKCRpqbiLEC+ETBcmAqyC8e7w+KeQ08x32xzi0QvnpgOcqAMnzTJtI6gRwM4\r\n         HqyZW4UhuTbLH3ygY0tOWoPjeTS61TSOdiBdTLnB0U7qa0l/yI4dVWGT1dzF6m1Ga4Gn\r\n         VWnIw0CDm6WJA9Fw12nCOky5dVdTu75vmgd99B/aSRHcn/M/qqAkSne752s63tj9O/zo\r\n         MIRRvia43QkT16Ss3AOOwMTG+dwQuNWWgDUT1S2XdAssq+dhTixuxSHTTF8lSDCatFjk\r\n         UDt/pO0g7Bm04Q6Kb333EtEskKZjYU6TTSgI4zOBOTvlId8ph+N2kujjb9RScmAQxl1s\r\n         DYdg==",
+    "x-google-dkim-signature": "X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;\r\n        d=1e100.net; s=20260707; t=1794472595; x=1795077395;\r\n        h=content-type:to:subject:message-id:date:from:in-reply-to:references\r\n         :mime-version:x-gm-gg:x-gm-message-state:from:to:cc:subject:date\r\n         :message-id:reply-to:content-type;\r\n        bh=2s/kGpCL6sqwnh05J8SRwiJzc/rtf09XsuQZ+DFWHbQ=;\r\n        b=NTcP3l6e1FVbdVwGQEZO6LWpY3A6DuCmVqSKxwQe4oJAiwZ0hP79T9QBTlF6/sKAXf\r\n         NfamkqqMOqPyQRvN/v77Y8CQw8MYTbZAQqgWKnf8lnd/DVNo7boR9ZXHEDUhpw/qN0b/\r\n         JB6Kx+MA7DM0IQlZKJCf9Jl0qbIU2NyXKOdvoGbUE6AsX4jG6BFARTB6mOd0z4BythF1\r\n         vbhvGswmVKq5n1eFgE8DUWoS/AtiI+1umlyW0+54GNEYK3p0QWuUaN6eyZ9vYOZ2mUCY\r\n         cK7+bdIUY1SugnNiwTS1VkUcdqe4FYDGy8WTq5EBI4FUXLdPwelmI8jVn23pCNN2W3ii\r\n         iwnQ==",
+    "x-gm-message-state": "X-Gm-Message-State: APuU4Z9rG36F0Sb63cDkL7tDpNkF3Yv+qmQ7PqzW1aubQIWAiWDukefA\r\n\tGcd4q7FgsmuAB6Fmn2rrMBSH/ZyADAohsolywRBmsiL+JRBPVPT9ihOyzY8armrecqnt/CCCn7M\r\n\traNtgH3DZO7p3yG+ntHvXWWf/7BleTzev",
+    "x-gm-gg": "X-Gm-Gg: AYBFou3zpMd+UdyMYrez46vVqXFCC8qTO2gXL3ssTXMoV/xHbjE55Udcxy5N+l9Wni3\r\n\tQUIGS1RgR2DXbp6XrXk5fk0cs4e+cmrKdgFMMdliIofQeHrzQ/ZpgUC8cUJMKM1BvjIEfCFYoP/\r\n\tdUICRzBrtrFk4jlUJ1l01Z/gMkT7R+O5FD7kTNmQmp89vOJx9FiA1DKwr99a8JBBfyg56WivybR\r\n\tdONoKuaARyNX+khDW6PSkAAICp3zg17pKQlX6P3P3dLTNG12CSf9t4C9WVB+aAEBp2FwyGSBKxs\r\n\tudEYkYXXG7EdAEhkT8iMVPu+2rEFe5cIgPeAVRsFHBuvffFvssIywbuCT6kU80IySt6lmG0KhnS\r\n\t8ybWlxUooryObPhbJkjZYp8aZrXvjFXOtcF1O",
+    "mime-version": "MIME-Version: 1.0",
+    "references": "References: <CAMbKSQ-2BwdVr0PYujeeZYHg+vL530Sxb2HBY89xaBFR6qC0ng@mail.gmail.com>",
+    "in-reply-to": "In-Reply-To: <CAMbKSQ-2BwdVr0PYujeeZYHg+vL530Sxb2HBY89xaBFR6qC0ng@mail.gmail.com>",
+    "from": "From: Ojas Nigam <nigamojas19@gmail.com>",
+    "date": "Date: Thu, 12 Nov 2026 14:06:21 +0530",
+    "x-gm-features": "X-Gm-Features: AclHuK_gU7640crQbA3DwvE9IgKAshL6B7NWKwbq0ZEV6EzBEBLVkzKTeNHZ9Qo",
+    "message-id": "Message-ID: <CAMbKSQ9jwj_dGxkUzxg8_BkpeqLYLR23+3aXvHQ_2Lo8PpC2Ow@mail.gmail.com>",
+    "subject": "Subject: Fwd: Daily sales India",
+    "to": "To: \"ojaskn19@gmail.com\" <ojaskn19@gmail.com>",
+    "content-type": "Content-Type: multipart/mixed; boundary=\"00000000000097bdd8066010352a\""
+  },
+  "html": "<div dir=\"ltr\"><div class=\"gmail_quote gmail_quote_container\"><br><div dir=\"ltr\"><br></div>\n</div></div>\n",
+  "text": "\n",
+  "textAsHtml": "<p></p>",
+  "subject": "Fwd: Daily sales India",
+  "references": "<CAMbKSQ-2BwdVr0PYujeeZYHg+vL530Sxb2HBY89xaBFR6qC0ng@mail.gmail.com>",
+  "date": "2026-11-12T08:36:21.000Z",
+  "to": {
+    "value": [
+      {
+        "address": "ojaskn19@gmail.com",
+        "name": ""
+      }
+    ],
+    "html": "<span class=\"mp_address_group\"><a href=\"mailto:ojaskn19@gmail.com\" class=\"mp_address_email\">ojaskn19@gmail.com</a></span>",
+    "text": "ojaskn19@gmail.com"
+  },
+  "from": {
+    "value": [
+      {
+        "address": "nigamojas19@gmail.com",
+        "name": "Ojas Nigam"
+      }
+    ],
+    "html": "<span class=\"mp_address_group\"><span class=\"mp_address_name\">Ojas Nigam</span> &lt;<a href=\"mailto:nigamojas19@gmail.com\" class=\"mp_address_email\">nigamojas19@gmail.com</a>&gt;</span>",
+    "text": "\"Ojas Nigam\" <nigamojas19@gmail.com>"
+  },
+  "messageId": "<CAMbKSQ9jwj_dGxkUzxg8_BkpeqLYLR23+3aXvHQ_2Lo8PpC2Ow@mail.gmail.com>",
+  "inReplyTo": "<CAMbKSQ-2BwdVr0PYujeeZYHg+vL530Sxb2HBY89xaBFR6qC0ng@mail.gmail.com>"
+}
