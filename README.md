@@ -20,11 +20,8 @@ Architecture
 
 
 Data files (CSV / Excel)
-
         │
-
         ▼
-  
    n8n workflow  ──►  Supabase (PostgreSQL)  ──►  Quadratic (SQL + AI prompts)
  
  
