@@ -86,6 +86,7 @@ Repository structure
 │   └── workflow.json       # exported n8n workflow (credentials removed)
 └── sql/
     └── queries.sql         # SQL prompts and equivalent queries used in Quadratic
-Data and credits
+
+# Data and credits
 Tutorial and dataset: codebasics
 The dataset is provided by codebasics for learning only. It is not included in this repository.
