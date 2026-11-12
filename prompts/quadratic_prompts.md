@@ -2,14 +2,7 @@
 Create a date table that has the dates from 03-01-2025 (March 1st, 2025)
 to 05-31-2025 (May 31st, 2025)
 
-# 2. To create an exchange rate table
-Create an exchange_rate table for the period from March 1st, 2025, to May 17th, 2025. Use the
-following API request sample to fetch historical exchange rates:
-response = requests.get(f'https://openexchangerates.org/api/historical/2024-10-
-21.json?app_id=<Replace your app id here>&symbols=INR')
-Replace the date for each in the URL with each date within the specified range.
-
-# 3. Data cleaning and summarizing required data in one table
+# 2. Data cleaning and summarizing required data in one table
 (fact_summary)
 Create a Python code that:
 
@@ -41,7 +34,7 @@ Create a Python code that:
 and total_amount (in INR)
 dont use exchange rate for anything . if required make it 1 usd = 90 inr
 
-# 4. KPIs
+# 3. KPIs
 1. Total Order Lines
 
 2. Line Fill Rate
