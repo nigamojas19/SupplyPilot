@@ -17,6 +17,8 @@ Supabase (PostgreSQL)	Cloud database that stores dimension and fact tables
 Quadratic	AI spreadsheet that connects to Postgres, runs SQL and builds KPIs/charts
 SQL / Python	Querying and calculations inside Quadratic
 Architecture
+
+
 Data files (CSV / Excel)
 
         │
@@ -24,6 +26,8 @@ Data files (CSV / Excel)
         ▼
   
    n8n workflow  ──►  Supabase (PostgreSQL)  ──►  Quadratic (SQL + AI prompts)
+ 
+ 
  (extract & load)      (session pooler)            KPIs, charts, insights
 
 Database schema
