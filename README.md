@@ -63,13 +63,23 @@ CSV import failed with date/time field value out of range: "13-03-2025"	Dates we
 Supabase direct connection could not be reached	The direct connection is IPv6-only on the free plan	Used the Session pooler connection string
 
 # Key insights
-Overall OTIF: __% against a target of __%
-Customers with the lowest fill rate: __
-Cities or products with the biggest gaps: __
-Trend across months: __
-
+Total Order Lines	25,777
+Line Fill Rate	65.99%
+Volume Fill Rate	96.62%
+Total Orders	13,595
+On Time Delivery %	59.23%
+In Full Delivery %	52.61%
+On Time In Full %	28.75%
 # Screenshots
+<img width="1877" height="1042" alt="image" src="https://github.com/user-attachments/assets/1ce7f243-6319-496d-b013-cd15244aa9bc" />
+
+Supabase:
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/fbf9bbda-dd03-495b-b285-9bdf48a6f6a9" />
+
 <img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/ef105561-c1bd-4fb0-b44a-9331e606394e" />
+
+Insights:
+<img width="1124" height="344" alt="image" src="https://github.com/user-attachments/assets/04be6280-7942-4651-b06b-2b2c9a6074c8" />
 
 n8n workflow Supabase tables Quadratic dashboard
 
@@ -79,7 +89,7 @@ Repository structure
 ├── n8n/
 │   └── workflow.json       # exported n8n workflow (credentials removed)
 └── sql/
-    └── queries.sql         # SQL queries used in Quadratic
+    └── queries.sql         # SQL prompts and equivalent queries used in Quadratic
 Data and credits
 Tutorial and dataset: codebasics
 The dataset is provided by codebasics for learning only. It is not included in this repository.
