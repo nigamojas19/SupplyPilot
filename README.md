@@ -81,22 +81,6 @@ Supabase:
 Insights:
 <img width="1124" height="344" alt="image" src="https://github.com/user-attachments/assets/04be6280-7942-4651-b06b-2b2c9a6074c8" />
 
-n8n workflow Supabase tables Quadratic dashboard
-
-Repository structure
-
-├── README.md
-
-├── images/       
-
-├── n8n/
-
-│   └── workflow.json       # exported n8n workflow
-
-└── sql/
-
-    └── queries.sql         # SQL prompts and equivalent queries used in Quadratic
-
 # Data and credits
 Tutorial and dataset: codebasics
 
